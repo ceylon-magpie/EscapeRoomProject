@@ -1,3 +1,3 @@
 # EscapeRoomProject
 polniy ddos
-![]("ento stool.jpg")
+![](ento stool.jpg)
